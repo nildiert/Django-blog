@@ -137,4 +137,11 @@ dmypy.json
 # Cython debug symbols
 cython_debug/mysite/__pycache__/
 
-mysite/__pycache__/settings.cpython-38.pyc
+
+__pycache__/
+
+*/*/*/__pycache__/
+
+*/*/__pycache__/
+
+*/__pycache__/
