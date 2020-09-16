@@ -27,6 +27,7 @@ Django is a powerful Python web framework with a relatively shallow learning cur
 * 15-Sep-2020
 
 ### Fixes, bugs and suggestions (DM)
-[![Twitter](https://i1.wp.com/www.julianmarquina.es/wp-content/uploads/twitter-bird-blue-on-white.png?w=1100)](https://twitter.com/nildiert)
+
+[![Twitter](https://img.icons8.com/clouds/2x/twitter.png)](https://twitter.com/nildiert)
 
 
