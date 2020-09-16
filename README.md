@@ -22,3 +22,11 @@ Django is a powerful Python web framework with a relatively shallow learning cur
 | [RSS](https://docs.djangoproject.com/en/3.1/ref/contrib/syndication/) | Django comes with a high-level syndication-feed-generating framework for creating RSS and Atom feeds.  Django also comes with a lower-level feed-generating API. Use this if you want to generate feeds outside of a Web context, or in some other lower-level way. |
 | [Full-text search engine](https://docs.djangoproject.com/en/3.1/ref/contrib/postgres/search/) | The database functions in the django.contrib.postgres.search module ease the use of PostgreSQL’s full text search engine. |
 | [Markdown](https://python-markdown.github.io/install/) | This is a Python implementation of John Gruber's Markdown. |
+
+### Changelog
+* 15-Sep-2020
+
+### Fixes, bugs and suggestions (DM)
+[![Twitter](https://i1.wp.com/www.julianmarquina.es/wp-content/uploads/twitter-bird-blue-on-white.png?w=1100)](https://twitter.com/nildiert)
+
+
