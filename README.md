@@ -1,5 +1,9 @@
 # My blog
 
+[![Twitter](https://jinchuika.com/es/post/3-inclusion-templates-django/cover.png)](https://www.djangoproject.com/)
+
+
+
 Django is a powerful Python web framework with a relatively shallow learning curve. You can easily build simple web applications in a short time. Django is also a robust and scalable framework that can be used to create large-scale web applications with complex requirements and integrations. I decided create this blog in order to put all this tools in practice.
 
 ### Django tools used
