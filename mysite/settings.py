@@ -25,7 +25,7 @@ SECRET_KEY = '9)r^s_e3$yot_v31bv7a!vla8!wyz%&1b(8lz4$*%)h+px%oj9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nildiert-blog.herokuapp.com', 'blog.nildiert.me']
+ALLOWED_HOSTS = ['nildiert-blog.herokuapp.com', 'blog.nildiert.me', 'localhost']
 
 SITE_ID = 1
 # Application definition
